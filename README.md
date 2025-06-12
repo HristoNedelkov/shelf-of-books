@@ -21,11 +21,26 @@ book-shelf-app/
 ## Компоненти
 
 - `AddShelfModal` - Модален прозорец за добавяне на нов рафт
+
 - `BookCard` - Карта за визуализация на книга
 - `CustomButton` - Преизползваем бутон компонент
 - `LoadingOverlay` - Компонент за показване на зареждане
 - `ManualEntryTab` - Таб за ръчно въвеждане на книги
 - `ScanBooksTab` - Таб за сканиране на книги
+
+![b2c8fda3-d7bf-40d2-bf02-42683beda8e2](https://github.com/user-attachments/assets/e9b5c5da-3985-4926-8bad-26638996a57e)
+![e5f23a04-650d-49ea-97be-3a95a712c19f](https://github.com/user-attachments/assets/69be17de-a6b7-40ad-a8e5-0fd12a92cdd0)
+ ![d15ce4e6-2a3d-4074-b710-006bf4e600b7](https://github.com/user-attachments/assets/e95b97b0-fabb-4162-ac43-f9f4f6eb3118)
+
+
+![86df96b7-adb7-45c6-9572-3bc755bfbfdd](https://github.com/user-attachments/assets/4d7ef807-d1eb-4749-a46c-950150a64453)
+![39442f31-31ea-4309-bece-adf1e00bf202](https://github.com/user-attachments/assets/f8159e1f-27c0-4c5b-9a47-34221457f106)
+![dff0a247-89df-426b-b494-60e4e0edf7ba](https://github.com/user-attachments/assets/9e645e9e-2c98-4b8a-9f74-02d3b2c87051)
+
+![27b59343-e827-497d-bd0c-8180ea1501a6](https://github.com/user-attachments/assets/abcba08a-3708-45a6-88c7-313f7899da55)
+![b3a8e641-6904-497c-bcf7-b1fbfbd5ab5a](https://github.com/user-attachments/assets/433dd4a1-3b79-4eb8-a4eb-7ea3490cb280)
+![5788d27c-86bd-4094-91b2-aa9b5b8dd114](https://github.com/user-attachments/assets/55ed1f80-1a07-4852-9d3e-d011902399d1)
+ 
 
 ## Локално съхранение
 
